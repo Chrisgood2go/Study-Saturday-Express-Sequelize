@@ -12,7 +12,7 @@ describe('Models', function () {
   describe('The `Students` model', function () {
     //initial force sync to clear the db
 
-    //create student BEFORE EACH test
+    //create student BEFORE EACH test 
     let student;
     let firstName = 'Peter';
     let lastName = 'Parker';

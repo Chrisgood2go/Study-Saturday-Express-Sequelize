@@ -28,3 +28,4 @@ Student.beforeCreate((student) => {
 });
 
 module.exports = Student;
+
